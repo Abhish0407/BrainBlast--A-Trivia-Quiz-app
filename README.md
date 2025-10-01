@@ -2,7 +2,7 @@
 Live Demo
 Test your knowledge with the live version of the quiz here:
 
-## [BRAINBLAST]()
+## [BRAINBLAST](https://abhish0407.github.io/BrainBlast--A-Trivia-Quiz-app/)
 
 ## 📝 Project Overview
 This project is a modern, responsive, front-end web application designed to test general knowledge through a multi-choice quiz format. It was built from scratch to demonstrate proficiency in fundamental web development technologies.
@@ -41,12 +41,13 @@ This is a static front-end application and requires no complex build process or 
 
 ## 📁 File Structure
 The project follows a standard, clean structure:
-BrainBlast-A-Trivia-Quiz-app/
+
+'''BrainBlast-A-Trivia-Quiz-app/
 ├── index.html          # Main HTML structure and content
 ├── style.css           # All CSS styling and layout rules
 ├── script.js           # Core JavaScript logic and question data
 └── README.md           # Project documentation (this file)
-
+'''
 
 ## 💡 Future Enhancements
 - Add a "Play Again" button on the final score screen.
