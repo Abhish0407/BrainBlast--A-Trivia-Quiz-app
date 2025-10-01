@@ -42,12 +42,12 @@ This is a static front-end application and requires no complex build process or 
 ## 📁 File Structure
 The project follows a standard, clean structure:
 
-'''BrainBlast-A-Trivia-Quiz-app/
+``` BrainBlast-A-Trivia-Quiz-app/
 ├── index.html          # Main HTML structure and content
 ├── style.css           # All CSS styling and layout rules
 ├── script.js           # Core JavaScript logic and question data
 └── README.md           # Project documentation (this file)
-'''
+```
 
 ## 💡 Future Enhancements
 - Add a "Play Again" button on the final score screen.
