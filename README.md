@@ -32,7 +32,7 @@ GitHub Pages - Used for free, automatic deployment and live hosting.
 ## 🚀 Installation & Setup
 This is a static front-end application and requires no complex build process or server-side dependencies.
 
-1. Clone the Repository: git clone [https://github.com/Abhish0407/BrainBlast-A-Trivia-Quiz-app.git](https://github.com/Abhish0407/BrainBlast-A-Trivia-Quiz-app.git)
+1. Clone the Repository: git clone [https://github.com/Abhish0407/BrainBlast--A-Trivia-Quiz-app.git]
 
 2. Navigate to the Directory: cd BrainBlast-A-Trivia-Quiz-app
 
